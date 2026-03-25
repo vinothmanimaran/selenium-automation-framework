@@ -1,12 +1,14 @@
 # Selenium Automation Framework
 
-This project contains basic automation using Selenium.
-
-## Tools Used
-- Selenium
+## Tech Stack
+- Selenium WebDriver
 - Java
 - TestNG
 
 ## Features
-- Login test
-- Basic automation flow
+- Sample login test
+- Basic framework structure
+
+## How to Run
+1. Install Java & Maven
+2. Run: mvn test
